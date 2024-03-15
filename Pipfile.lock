@@ -20,7 +20,7 @@
                 "sha256:c6c2e98f5c7869efca1f8916fed228dd91539f9f1b444c314c06eef02980c716"
             ],
             "markers": "python_version >= '3.6'",
-            "version": "==2023.5.7"
+            "version": "==2022.12.7"
         },
         "vyper": {
             "hashes": [
